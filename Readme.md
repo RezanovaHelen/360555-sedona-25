@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Elena Rezanova](https://up.htmlacademy.ru/htmlcss/25/user/360555).
-* Наставник: `Неизвестно`.
+* Наставник: [Егор Глебов](https://htmlacademy.ru/profile/beast).
 
 ---
 
